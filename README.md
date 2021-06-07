@@ -1,1 +1,1 @@
-# Column_transposition_cipher
+Column transposition cipher implementation
